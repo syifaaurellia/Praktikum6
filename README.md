@@ -255,6 +255,6 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
 
 ## Flowchart Praktikum 6
 
-
+![Gambar WhatsApp 2022-12-06 pukul 16 17 32](https://user-images.githubusercontent.com/115867244/205897374-eb4c3775-131a-4224-a9ea-e795bac9d769.jpg)
 
 ## Sekian, Terima kasih
