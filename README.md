@@ -67,7 +67,7 @@ Ubahlah kode di bawah ini menjadi fungsi menggunakan lambda
 ![hasil running latihan](https://user-images.githubusercontent.com/115867244/205793205-b0be6de8-310a-4e1a-aa28-003bc74bda56.png)
 
 ## Praktikum 6
-Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
+Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan :
 
 - Fungsi tambah() untuk menambah data.
 - Fungsi tampilkan() untuk menampilkan data.
